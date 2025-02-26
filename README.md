@@ -18,6 +18,7 @@ Built an AI-driven fact-checking system using NLP and deep learning to verify cl
 
 
 
+
 🛠️ Tech Stack
 
 - Python 🐍
@@ -39,6 +40,13 @@ Run the app:
 🎯 Usage
 
 - Enter a claim (e.g., "Is 5G technology harmful to human health?").
+- Input: 
+
+ ![2](https://github.com/user-attachments/assets/139c4363-4310-4114-8ea9-c074b84245cb)
+
+- output:
+![1](https://github.com/user-attachments/assets/146bf9a3-c378-4841-b942-1ebf5187f6d2)
+
 
 - The system searches for fact-checks, analyzes the claim, and provides a verdict.
 
