@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+requests
+nltk
+sentence-transformers
+newspaper3k
+transformers
+torch
